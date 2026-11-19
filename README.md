@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 # Karam ES-SEBBAR 👋
 
@@ -8,10 +8,10 @@
 
 📍 Nancy, France
 
-\
+[![Portfolio](https://img.shields.io/badge/Portfolio-es--sebbar.org-blue?style=for-the-badge&logo=googlechrome)](https://www.es-sebbar.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-karamessebbar-181717?style=for-the-badge&logo=github)](https://github.com/karamessebbar)
 
-
-\</div>
+</div>
 
 ---
 
@@ -19,7 +19,7 @@
 
 I am interested in designing and developing intelligent systems, with a focus on:
 
-- **Artificial Intelligence:** Deep Learning, Machine Learning and intelligent systems.
+- **Artificial Intelligence:** Deep Learning and intelligent systems.
 - **Computer Vision:** Image processing, feature detection and visual perception.
 - **Machine Learning:** Model development, data processing and predictive algorithms.
 
@@ -31,11 +31,15 @@ I enjoy exploring AI techniques and applying them to real-world problems.
 
 ### Programming Languages
 
-\<p> \<img src="[https://skillicons.dev/icons?i=python,cpp,c](https://skillicons.dev/icons?i=python,cpp,c)" /> \</p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
 
 ### Artificial Intelligence & Machine Learning
 
-\<p> \<img src="[https://skillicons.dev/icons?i=pytorch](https://skillicons.dev/icons?i=pytorch)" /> \</p>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
 - Deep Learning
 - Machine Learning
@@ -45,7 +49,9 @@ I enjoy exploring AI techniques and applying them to real-world problems.
 
 ### Computer Vision & Image Processing
 
-\<p> \<img src="[https://skillicons.dev/icons?i=opencv](https://skillicons.dev/icons?i=opencv)" /> \</p>
+<p>
+<img src="https://skillicons.dev/icons?i=opencv" />
+</p>
 
 - OpenCV
 - Dlib
@@ -57,7 +63,9 @@ I enjoy exploring AI techniques and applying them to real-world problems.
 
 ### Development Environment & Tools
 
-\<p> \<img src="[https://skillicons.dev/icons?i=linux,git,docker,cmake](https://skillicons.dev/icons?i=linux,git,docker,cmake)" /> \</p>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,docker,cmake" />
+</p>
 
 - Algorithm Design & Optimization
 - Object-Oriented Programming
@@ -65,22 +73,9 @@ I enjoy exploring AI techniques and applying them to real-world problems.
 
 ---
 
-## 📊 GitHub Statistics
-
-\<div align="center">
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=karamessebbar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=karamessebbar\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)" />
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=karamessebbar&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=karamessebbar\&layout=compact\&theme=github_dark\&hide_border=true)" />
-
-\</div>
-
----
-
-\<div align="center">
 
 ### Let's connect and build intelligent systems together!
 
 🌐 [Portfolio](https://www.es-sebbar.org/) · 💻 [GitHub](https://github.com/karamessebbar)
 
-\</div>
+</div>
